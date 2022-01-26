@@ -4,7 +4,7 @@
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: Flutter / Dart / Python / Java / HTML / CSS
+Skills: Flutter / Dart / Python / Django / Java / HTML / CSS
 
 - 🔭 I’m currently working on mobile application called "DrugBox" 
 - 🌱 I’m currently learning Flutter 
