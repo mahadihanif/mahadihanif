@@ -2,7 +2,6 @@
 #### I am a Software Engineer
 ![I am a Software Engineer](https://media-exp1.licdn.com/dms/image/C5603AQFRoKbjh6FtJA/profile-displayphoto-shrink_200_200/0/1634710856987?e=1648080000&v=beta&t=sHA0zsw6tiwsU0DChlT5IYlk5gp92CFhm0-UwLRmZ78)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: Flutter / Dart / Python / Django / Java / C / HTML / CSS
 
