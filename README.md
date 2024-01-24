@@ -3,9 +3,9 @@
 ![I am a Software Engineer](https://media-exp1.licdn.com/dms/image/C5603AQFRoKbjh6FtJA/profile-displayphoto-shrink_200_200/0/1634710856987?e=1648080000&v=beta&t=sHA0zsw6tiwsU0DChlT5IYlk5gp92CFhm0-UwLRmZ78)
 
 
-Skills: Flutter / Dart / Python / Django / Java / C / HTML / CSS
+Skills: Flutter / Dart / Ionic / Angular / Python / Django / Java / C / HTML / CSS
 
-- 🔭 I’m currently working on mobile application called "DrugBox" 
+- 🔭 I’m currently learning Flutter clean architecture  
 - 🌱 I’m currently Working with Ionic and Flutter 
 
 
